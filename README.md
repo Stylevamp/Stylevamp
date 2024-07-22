@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Pandas,SQL,POWERBI**
+- 🌱 I’m currently learning **Python,SQL,POWERBI**
 
 - 📫 How to reach me **surajkkumarr007@gmail.com**
 
